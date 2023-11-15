@@ -1,0 +1,6 @@
+BEGIN;
+
+DROP TABLE orders;
+-- DROP TABLE "user";
+
+COMMIT;
